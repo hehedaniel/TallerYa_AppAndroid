@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="configuracion_de_conexion">Connection Settings</string>
+    <string name="textoIpPuerto">Enter the IP address and server port.</string>
+    <string name="dirIp">IP Address</string>
+    <string name="puerto">Port</string>
+    <string name="confirmar">Confirm</string>
+    <string name="cancelar">Cancel</string>
+    <string name="back">Back</string>
+    <string name="topBarPantallaTaller">Workshop Info</string>
+    <string name="topBarCitaSeleccion">Appointment Selection</string>
+    <string name="CitaSelScreen_selDia">Select Day</string>
+    <string name="CitaSelScreen_selHora">Select Time</string>
+    <string name="confirmarSeleccion">Confirm Selection</string>
+    <string name="CitaSelScreen_precio">Price: %1$s€</string>
+    <string name="CitaSelScreen_descripcion">Description: %1$s</string>
+    <string name="tiempo_estimado_minutos">Estimated time: %1$s minutes</string>
+    <string name="HomeScreen_direccion">Address: </string>
+    <string name="HomeScreen_telefono">Phone: </string>
+    <string name="HomeScreen_horario">Hours: %1$s - %2$s</string>
+    <string name="InfoTallerScreen_servDisponibles">Available Services</string>
+    <string name="InfoTallerScreen_direccion">Address: %1$s</string>
+    <string name="InfoTallerScreen_telefono">Phone: %1$s</string>
+    <string name="InfoTallerScreen_horario">Hours: %1$s - %2$s</string>
+    <string name="InfoTallerScreen_precio">Price: %1$s€</string>
+    <string name="InfoTallerScreen_descripcion">Description: %1$s</string>
+    <string name="InfoTallerScreen_tiempoEstimado">Estimated time: %1$s minutes</string>
+    <string name="LoginScreen_iniciarSesion">Log In</string>
+    <string name="LoginScreen_iniciarSesionFallido">Log in failed, please try again</string>
+    <string name="LoginScreen_usuario">Username</string>
+    <string name="LoginScren_contrasena">Password</string>
+    <string name="cita_rechazada">Error</string>
+    <string name="cita_aceptada">Confirm</string>
+    <string name="cita_aceptada_mensaje">Appointment created successfully</string>
+    <string name="cita_rechazada_mensaje">The appointment could not be created.\n</string>
+    <string name="LoginScreen_logo_description">Logo</string>
+</resources>

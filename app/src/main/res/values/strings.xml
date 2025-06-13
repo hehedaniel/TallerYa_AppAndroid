@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="false">Taller Ya </string>
+    <string name="configuracion_de_conexion">Configuración de conexión </string>
+    <string name="textoIpPuerto">Introduce la dirección IP y el puerto del servidor. </string>
+    <string name="dirIp">Dirección IP </string>
+    <string name="puerto">Puerto </string>
+    <string name="confirmar">Confirmar </string>
+    <string name="cancelar">Cancelar </string>
+    <string name="appTitulo" translatable="false">Taller Ya </string>
+    <string name="back">Volver </string>
+    <string name="topBarPantallaInicio" translatable="false">Taller Ya </string>
+    <string name="topBarPantallaTaller">Información taller\n </string>
+    <string name="topBarCitaSeleccion">Selección cita\n </string>
+    <string name="CitaSelScreen_selDia">Selecciona el día </string>
+    <string name="CitaSelScreen_selHora">Selecciona Hora </string>
+    <string name="confirmarSeleccion">Confirmar selección </string>
+    <string name="CitaSelScreen_precio">Precio: </string>
+    <string name="CitaSelScreen_descripcion">Descripción: </string>
+    <string name="tiempo_estimado_minutos">Tiempo estimado: minutos </string>
+    <string name="HomeScreen_direccion">Dirección: </string>
+    <string name="HomeScreen_telefono">Teléfono: </string>
+    <string name="HomeScreen_horario">Horario: %1$s - %2$s </string>
+    <string name="InfoTallerScreen_servDisponibles">Servicios disponibles </string>
+    <string name="InfoTallerScreen_direccion">Dirección: %1$s </string>
+    <string name="InfoTallerScreen_telefono">Teléfono: %1$s </string>
+    <string name="InfoTallerScreen_horario">Horario: %1$s - %2$s </string>
+    <string name="InfoTallerScreen_precio">Precio: %1$s€ </string>
+    <string name="InfoTallerScreen_descripcion">Descripción: %1$s </string>
+    <string name="InfoTallerScreen_tiempoEstimado">Tiempo estimado: %1$s minutos </string>
+    <string name="LoginScreen_iniciarSesion">Iniciar Sesión </string>
+    <string name="LoginScreen_iniciarSesionFallido">Datos incorrectos, vuelva a intentarlo</string>
+    <string name="LoginScreen_usuario">Usuario </string>
+    <string name="LoginScren_contrasena">Contraseña </string>
+    <string name="cita_aceptada">Aceptar</string>
+    <string name="cita_aceptada_mensaje">Cita enviada correctamente</string>
+    <string name="cita_rechazada">Error</string>
+    <string name="cita_rechazada_mensaje">No ha sido posible crear la cita\n</string>
+    <string name="LoginScreen_logo_description">Logo</string>
+</resources>
